@@ -17,6 +17,6 @@ print("bitwise |",n1|n2)
 print("*Identity operator*")
 print("is ", n1 is n2)
 print("*Membership operator*")
-a='kanak'
+a='parshwa'
 print('p' in a)
 print('n' is not a)
